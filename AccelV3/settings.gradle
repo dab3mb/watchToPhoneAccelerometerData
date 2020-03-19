@@ -1,0 +1,2 @@
+include ':mobile', ':wear', ':opencsv'
+rootProject.name='Watch_Accel_Android_6'
